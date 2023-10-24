@@ -5,7 +5,6 @@ This project is an admin dashboard with data visualization built with Create Rea
 ## Features
 
 * **Data visualization:** The dashboard includes a variety of data visualization components, such as charts, tables, and maps.
-* **User authentication:** The dashboard supports user authentication and authorization.
 * **Responsive design:** The dashboard is responsive and will look good on all devices.
 
 ## How to run the project
